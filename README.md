@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/yogaajie2/fylo
-- Live Site URL: https://nervous-pasteur-cf17a4.netlify.app/
+- Solution URL: https://github.com/yogaajie2/clipboard
+- Live Site URL: https://jovial-shirley-8f3612.netlify.app/
 
 ## My process
 

@@ -1,0 +1,9 @@
+.bg-header {
+  background-image: url('~assets/img/bg-header-mobile.png');
+}
+
+@media only screen and (min-width: 1024px) {
+  .bg-header {
+    background-image: url('~assets/img/bg-header-desktop.png');
+  }
+}
